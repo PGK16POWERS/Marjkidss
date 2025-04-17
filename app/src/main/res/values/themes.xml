@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.Marjkidss" parent="Theme.AppCompat.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/poppins_regular</item>
     </style>
 
     <style name="Theme.Marjkidss" parent="Base.Theme.Marjkidss" />

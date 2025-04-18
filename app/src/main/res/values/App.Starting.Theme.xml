@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="App.Starting.Theme" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@drawable/intro_background</item>
+        <item name="windowSplashScreenBackground">#3E3D40</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/splashscreen_logo</item>
         <item name="postSplashScreenTheme">@style/Theme.Marjkidss</item>
     </style>
